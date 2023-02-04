@@ -4,6 +4,7 @@ USER root
 
 RUN apk add --no-cache \
         chromium \
+	curl \
         mousepad \
         openssh-client \
         xterm
